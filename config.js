@@ -4,7 +4,7 @@
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
+// • Amirr
 // • Bochilgaming
 // • Rominaru
 // • Kannachann
@@ -44,23 +44,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/amirrwibuu_01'
+global.sgh = 'https://github.com/USER0106'
+global.sgc = 'https://chat.whatsapp.com/LT59J8jDGVLETJUVBWaItN'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://lynk.id/amirr'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '082154156241'
+global.povo = '082154156241'
+global.pgopay = '082154156241'
+global.ppulsa = '082154156241'
+global.ppulsa2 = '082154156241'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
+global.nomorown = '6282154156241'
 global.namebot = 'Kanna BOT'
 global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
 
